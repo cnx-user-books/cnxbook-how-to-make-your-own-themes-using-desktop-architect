@@ -1,0 +1,49 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lesson 3 with Assignment</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ae2fced7-56b3-4f51-8b23-46078ce14398</md:uuid>
+</metadata>
+  <content>
+    <para id="id2921464">Appearance and Finishing</para>
+    <para id="id6797193">Open your theme.</para>
+    <para id="id5326722">Below is a list on what you change in the appearance tab:</para>
+    <para id="id13105556">Here are the different Items listed and what they are:</para>
+    <para id="id5786328">• 3D Dark Shadow: The darker half (usually the bottom half) of all the frames around buttons and windows.</para>
+    <para id="id12869375">• 3D Face: This is the face of the buttons and also changes the colors of the symbols or words on the buttons.</para>
+    <para id="id14993564">• 3D Highlight: changes the lighter aspect of the frames</para>
+    <para id="id13713240">• 3D Light: Gives more definition to the Highlight</para>
+    <para id="id14036589">• 3D Objects: Does pretty much the same as 3D Face.</para>
+    <para id="id14856926">• 3D Shadow: Gives more definition to the Dark Shadow</para>
+    <para id="id8545633">• Active Title Bar: The title bar of the window you are currently using. You can change the front and end of the bar's colors. Change the text and text color. When you change the text of this it will also do the Inactive Title bar as well. These will always be the same. Changing the colors and fonts on here will also change the title of the message box.</para>
+    <para id="id15049882">• Active Window Border: Changes the size and color of the border around the Active Window</para>
+    <para id="id3157516">• Application Background: Honestly I have no idea on this on. If anyone figures it out, please let me know!</para>
+    <para id="id16162918">• Caption Buttons: Changes the size of the Close, Minimize and Maximize buttons</para>
+    <para id="id3074837">• Desktop: Very important. It changes the color of the active desktop. This is also important to change if you are using a stretched or titled wallpaper. Change this color to the main color in the theme, because it also will change the labels for the icons to the appropriate shade of black or white so they can be seen.</para>
+    <para id="id14307443">• Grayed Text: This will change the color of the Menu Bar (which is located directly under the Active Title Bar) and then the grayed text only on this bar.</para>
+    <para id="id3212587">• Hot Tracking: Again, I have no idea. Let me know if you figure this one out!</para>
+    <para id="id14388446">• Icon: This will change the size and style of the font used in the icon label.</para>
+    <para id="id6153595">• Icon Spacing: This will change the vertical or horizontal spacing of your icons. This is rarely used.</para>
+    <para id="id15239996">• Inactive Title Bar: Same as the Active Title Bar, only for the inactive title bar. If you change the font here you will also change the font on the Active Title bar.</para>
+    <para id="id3428074">• Inactive Window Border: See Active Window Border</para>
+    <para id="id6889600">• Menu: Here you can change the color of the menu bar and the Normal text, as well as the size and font used. All words on the Menu Bar will be the same text.</para>
+    <para id="id15378391">• Message Box: You can change the color of the main box and the font and size of font for the message.</para>
+    <para id="id6157112">• Palette Title: again no idea.</para>
+    <para id="id14804320">• Scrollbar: This will change the inside color for the scroll bar. It also can create narrow or wide scroll bars</para>
+    <para id="id5777906">• Selected Items: This is on the Menu Bar. The colors here will change the color of the Highlight and the color of the font used. If you change the font type here it will change it for the entire Menu bar. This also will effect for when you highlight things to cut and paste.</para>
+    <para id="id15506646">• Tool Tip: this will change the font, color and size of the tool tips.</para>
+    <list list-type="bulleted" id="id2946063">
+      <item>Window: This will change the color of the main window on your screens as well as the color of the font used. You cannot change the font type here. </item>
+      <item>Window Frame: This changes the outline for all the frames used.</item>
+    </list>
+    <para id="id15224064">Here is what it looks like when you go and set up your settings:</para>
+    <figure id="id3450611">
+      <media id="idp3360768" alt=""><image src="../../media/graphics1-0aaf.jpg" mime-type="image/jpeg" height="296" width="425"/></media>
+    </figure>
+    <para id="element-726">Note: If you want to change your fonts, here is the place to do that. The one thing to remember is to go into your c: drive, go to your windows folder, and look for you fonts folder, then pick out the font you are using. Copy your font and paste into you’re my Themes folder, that way when you package your theme your font will be included.</para><para id="id14318343">Finishing</para>
+    <para id="id14172028">Now we are going to package your theme. Open up Desktop Architect, and then open your theme folder. Click the button with a globe on it and follow the directions. This will create a self-installing theme that you can share with your friends and family.</para>
+    <para id="id5214751">Congratulations!</para>
+    <para id="id5358680">Congratulations! You have just created your first desktop theme. Don’t forget to keep up with your Copyright Information. Have fun!</para>
+    <para id="id8630542">Finales</para>
+    <para id="id5785139">In this assignment you will take your packaged theme and send it as an attachment to my e-mail address: <link url="mailto:leslieproffitt2000@yahoo.com">leslieproffitt2000@yahoo.com</link> .</para>
+    <para id="id13105947">You must have in your folder: wallpaper, Icons, wavs(if used), and copyright information.</para>
+  </content>
+</document>

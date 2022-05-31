@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>week 1</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bfae9939-ca3b-4c20-9a0c-b0e17c230808</md:uuid>
+</metadata>
+  <content>
+    <section id="id-166628870834">
+      <title>Week 1</title>
+      <para id="id47302937">Lesson 1 and assignment</para>
+      <para id="id47211645">How to make your own themes</para>
+      <para id="id47211649">Using Desktop Architect</para>
+      <para id="id47211653">Before you begin this course you must download Desktop Architect which is Freeware. You can download Desktop Architect from this website at: http://www.themeworld.com/reviews/da211.html  Also, make a new folder on your desktop, call it My Theme; you will be using this folder thru the whole course. In your folder you need: wallpaper, icon folder, cursor folder, and copyright information. (Copyright information must include: name of art, creator, and website.) Use note pad or any other text editor for copyright information.</para>
+      <para id="id47306281">Once you download Desktop Architect and have installed it, open the program up and you should see:</para>
+      <figure id="id47140134">
+        <media id="idp2540384" alt=""><image src="../../media/graphics1-0a2e.jpg" mime-type="image/jpeg" height="285" width="412"/></media>
+      </figure>
+      <para id="id47259312">Your current theme will show, now go up to the bar that says current settings, set this to default, this gives you a clean screen to start off with. Now you should have this:</para>
+      <para id="id47259319">
+        <figure id="id47206262">
+          <media id="idp1024832" alt=""><image src="../../media/graphics2.jpg" mime-type="image/jpeg" height="306" width="444"/></media>
+        </figure>
+      </para>
+      <para id="id47265665">Go online and find you nice wallpaper for your theme. (Don’t forget your copyright information.) I’ll be doing a gothic theme with you so that you can see step by step.</para>
+      <para id="id47265676">Open Desktop Architect and click current setting and change to default. Click on Desktop tab and go to browse. Browse to your wallpaper and choose it. Now you screen looks like this:</para>
+      <para id="id47304871">
+        <figure id="id47146998">
+          <media id="idp48064" alt=""><image src="../../media/graphics3.jpg" mime-type="image/jpeg" height="339" width="487"/></media>
+        </figure>
+      </para>
+      <para id="id47301517">Assuming you have your icons and cursors, (Don’t forget your copyright information) go to icons tab and click. Now going from top to bottom, double-click on the icon, now click browse, navigate to your folder and assign an icon, click ok and do the same thing. Now your screen should look like this:</para>
+      <figure id="id47301522">
+        <media id="idp1906304" alt=""><image src="../../media/graphics4.jpg" mime-type="image/jpeg" height="339" width="487"/></media>
+      </figure>
+      <para id="id47208408">Now go up to file and save as, your theme name. </para>
+      <para id="id47208413">Assignment 1</para>
+      <para id="id47214493">In this assignment you will take your My Themes Folder and send it as an attachment to my e-mail address: <link url="mailto:leslieproffitt2000@yahoo.com">leslieproffitt2000@yahoo.com</link> .</para>
+      <para id="id47144953">You must have in your folder: wallpaper, Icons, and copyright information.</para>
+    </section>
+  </content>
+</document>
